@@ -1,0 +1,6 @@
+optConfig:
+  optIn: true
+checks:
+- CI-Tests
+- License
+- Vulnerabilities
